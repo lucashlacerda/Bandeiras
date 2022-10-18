@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.bandeira{
+    width: 20%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 0.25px solid black;
+}
+.baixo, .cima, .meio{
+    width: 100%;
+    height: 33%;
+}
+
+.cima{
+    background-color: white;
+}
+.meio{
+    background-color:blue;
+}
+.baixo{
+    background-color: red;
+}

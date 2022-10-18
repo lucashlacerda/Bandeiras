@@ -1,0 +1,1 @@
+# Bandeiras criadas para avaliação da matéria Sistemas distribuídos e mobile.
